@@ -1,0 +1,55 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#main{
+    text-align: center;
+}
+
+.title{
+    margin-top: 12px;
+}
+
+.text{
+    padding-top: 10px;
+}
+
+#inputs{
+    margin-top: 30px;
+}
+
+/* show-hide */
+
+.show{
+    display: block;
+}
+
+.hide{
+    display: none;
+}
+
+.quizbuttons{
+    width: 230px;
+    height: 100px;
+    background: skyblue;
+    border-radius: 20px;
+    font-size: 170%;
+}
+
+#question{
+    margin-bottom: 40px;
+    margin-top: 10px;
+}
+
+/* result */
+
+.resulttext{
+    text-align: center;
+    margin-top: 12px;
+}
+
+#resultdisplay{
+    text-align: center;
+    margin-top: 20px;
+}
