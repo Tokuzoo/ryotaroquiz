@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz!</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="main">
+        <h2 class="title">涼太郎クイズ！</h2>
+        <p class="text">涼太郎クイズです。下に望む問題数を入力して、始めてください。</p>
+        <p id="attention"></p>
+        <div id="inputs">
+            <input type="text" id="input">
+            <button id="confirm">決定！</button>
+        </div>
+    </div>
+
+    <div id="quizform">
+        <h2 id="question"></h2>
+    </div>
+
+    <div id="result" class="hide">
+        <h3 class="resulttext">お疲れ様です！あなたの正解数は、</h3>
+        <h2 id="resultdisplay"></h2>
+    </div>
+    <script src="script.js"></script> 
+</body>
+</html>
