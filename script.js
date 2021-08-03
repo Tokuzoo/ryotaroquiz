@@ -44,9 +44,9 @@ const quizset = [
         correct: '冬'
     },
     {
-        statement: '涼太郎の好きなNCS楽曲はどれか。',
-        choices: ['Cloud 9','My heart','Hope','Cladles'],
-        correct: 'Cladles'
+        statement: '涼太郎が買うならどれか。',
+        choices: ['ランボルギーニ','ダイヤモンド','テスラ','土地'],
+        correct: 'ランボルギーニ'
     },
     {
         statement: '涼太郎の好きな教科はどれか。',
