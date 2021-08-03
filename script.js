@@ -16,7 +16,7 @@ const quizset = [
     {
         statement: '涼太郎の年齢はいくつか。',
         choices: ['12','13','14','4637'],
-        correct: '13'
+        correct: '14'
     },
     {
         statement: '涼太郎の好きな食べ物はどれか。',
